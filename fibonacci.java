@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Fibonacci 
 {
-    ublic static void main(String[] args) 
+    public static void main(String[] args) 
     {
         int n, a = 0, b = 0, c = 1;
         
